@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+.resultsDiv {
+	padding-top: 30px;
+	align-content: center;
+	padding-left: 100px;
+	background: burlywood;
+	width: 282px;
+	height: 72px;
+}
+
+.lunchEnd {
+	text-align: right;
+	padding-left: 4px;
+}
+
+.logOut {
+	text-align: right;
+	padding-left: 29px;
+}
